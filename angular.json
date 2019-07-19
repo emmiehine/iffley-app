@@ -24,7 +24,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "IffleyRoutesRecord/IffleyRoutesRecord.Website/css/libraries/bootstrap.min.css",
+              "IffleyRoutesRecord/IffleyRoutesRecord.Website/css/libraries/bootstrap.css"
             ],
             "scripts": []
           },
